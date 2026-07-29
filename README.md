@@ -1,4 +1,4 @@
-# Bäche in RLP 🌊
+# Pegel für Bäche in RLP 🌊
 
 Skript zum Abrufen von Wasserständen für Bäche und Flüsse in Rheinland-Pfalz.
 
@@ -30,5 +30,6 @@ Das Skript lädt Wasserstandsdaten von der Seite geodaten-wasser.rlp-umwelt.de u
 
 ## Verfügbare Gewässer
 
-- Eisbach bei Worms-Heppenheim
+- Eisbach bei Worms-Heppenheim aktiviert
+- Pfrimm bei Worms-Pfeddersheim auskommentiert
 - Weitere können durch URL-Anpassung hinzugefügt werden
