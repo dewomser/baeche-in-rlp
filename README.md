@@ -20,7 +20,7 @@ python wasserstand.py
 ```
 
 Das Skript lädt Wasserstandsdaten von der Seite geodaten-wasser.rlp-umwelt.de und extrahiert die relevanten Informationen.
-!(images/Eisbach_maps.png)[images/Eisbach_maps.png]
+![Illustration wfür Eibach bei Worms](images/Eisbach_maps.png)
 
 ## Features
 
